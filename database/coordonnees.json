@@ -1,0 +1,107 @@
+{
+  "entrepots": [
+    {
+      "id": "1",
+      "nom": "Entrepot Montreal Centre",
+      "latitude": 45.5019,
+      "longitude": -73.5674,
+      "adresse": "123 Rue Sainte-Catherine, Montreal, QC H3B 1A1",
+      "telephone": "(514) 123-4567",
+      "image": "https://images.unsplash.com/photo-1669003152237-7bd1ac4c13f3?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "2",
+      "nom": "Entrepot Quebec",
+      "latitude": 46.8139,
+      "longitude": -71.208,
+      "adresse": "456 Boulevard Laurier, Quebec, QC G1V 2L3",
+      "telephone": "(418) 234-5678",
+      "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=100&h=100&fit=crop"
+    },
+    {
+      "id": "3",
+      "nom": "Entrepot Laval",
+      "latitude": 45.5789,
+      "longitude": -73.744,
+      "adresse": "789 Autoroute 15, Laval, QC H7T 2K5",
+      "telephone": "(450) 345-6789",
+      "image": "https://images.unsplash.com/photo-1512302064969-4e1927b463fd?q=80&w=740&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "4",
+      "nom": "Entrepot Longueuil",
+      "latitude": 45.5369,
+      "longitude": -73.5186,
+      "adresse": "1010 Rue Saint-Charles, Longueuil, QC J4H 1C1",
+      "telephone": "(450) 456-7890",
+      "image": "https://imgs.search.brave.com/UQ1H7AttaaE0NVXT5Blxrulmz4nOorVkiPHFXHeNvl0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMzAv/MTQxLzE3My9zbWFs/bC9hLWxhcmdlLXdh/cmVob3VzZS1idWls/ZGluZy13aXRoLWEt/c2t5LWJhY2tncm91/bmQtYWktZ2VuZXJh/dGVkLXBob3RvLmpw/Zw"
+    },
+    {
+      "id": "5",
+      "nom": "Entrepot Trois-Rivieres",
+      "latitude": 46.3439,
+      "longitude": -72.5482,
+      "adresse": "1313 Rue des Forges, Trois-Rivieres, QC G9A 2A7",
+      "telephone": "(819) 789-0123",
+      "image": "https://imgs.search.brave.com/UE-k3PRvynceNOqte85QSMcULZ_T6dzogsV6OjWuwa8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMzAv/MTUxLzg1Ny9zbWFs/bC9hLWxhcmdlLXdh/cmVob3VzZS13aXRo/LXR3by1sYXJnZS1i/dWlsZGluZ3MtYWkt/Z2VuZXJhdGVkLXBo/b3RvLmpwZw"
+    }
+  ],
+  "adressesGeocodees": {
+    "21 Rue Narcisse-Poirier Blainville, QC J7C 0G7": {
+      "latitude": 45.6650,
+      "longitude": -73.8620
+    },
+    "123 Rue Principale, Montreal": {
+      "latitude": 45.5088,
+      "longitude": -73.5878
+    },
+    "456 Avenue Centrale, Laval": {
+      "latitude": 45.5700,
+      "longitude": -73.7400
+    }
+  },
+  "chemins": {
+    "21 Rue Narcisse-Poirier Blainville, QC J7C 0G7": [
+      { "latitude": 45.5789, "longitude": -73.744 },
+      { "latitude": 45.5860, "longitude": -73.7580 },
+      { "latitude": 45.5970, "longitude": -73.7770 },
+      { "latitude": 45.6120, "longitude": -73.7980 },
+      { "latitude": 45.6280, "longitude": -73.8190 },
+      { "latitude": 45.6440, "longitude": -73.8380 },
+      { "latitude": 45.6550, "longitude": -73.8520 },
+      { "latitude": 45.6650, "longitude": -73.8620 }
+    ],
+    "123 Rue Principale, Montreal": [
+      { "latitude": 45.5019, "longitude": -73.5674 },
+      { "latitude": 45.5027, "longitude": -73.57 },
+      { "latitude": 45.5035, "longitude": -73.5725 },
+      { "latitude": 45.5043, "longitude": -73.5751 },
+      { "latitude": 45.5051, "longitude": -73.5777 },
+      { "latitude": 45.5059, "longitude": -73.5802 },
+      { "latitude": 45.5067, "longitude": -73.5828 },
+      { "latitude": 45.5075, "longitude": -73.5853 },
+      { "latitude": 45.5088, "longitude": -73.5878 }
+    ],
+    "456 Avenue Centrale, Laval": [
+      { "latitude": 45.5789, "longitude": -73.744 },
+      { "latitude": 45.5795, "longitude": -73.7430 },
+      { "latitude": 45.5805, "longitude": -73.7420 },
+      { "latitude": 45.5820, "longitude": -73.7415 },
+      { "latitude": 45.5780, "longitude": -73.7410 },
+      { "latitude": 45.5745, "longitude": -73.7405 },
+      { "latitude": 45.5720, "longitude": -73.7402 },
+      { "latitude": 45.5700, "longitude": -73.7400 }
+    ]
+  },
+  "chemin": [
+    { "latitude": 45.5019, "longitude": -73.5674 },
+    { "latitude": 45.5027, "longitude": -73.57 },
+    { "latitude": 45.5035, "longitude": -73.5725 },
+    { "latitude": 45.5043, "longitude": -73.5751 },
+    { "latitude": 45.5051, "longitude": -73.5777 },
+    { "latitude": 45.5059, "longitude": -73.5802 },
+    { "latitude": 45.5067, "longitude": -73.5828 },
+    { "latitude": 45.5075, "longitude": -73.5853 },
+    { "latitude": 45.5088, "longitude": -73.5878 }
+  ]
+}
